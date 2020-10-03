@@ -9,7 +9,7 @@ This is a simple model for solving classification problems in machine learning u
 
 The jupyter notebook consists of detail explanation of the code along with the result of execution and iterations. 
 
-#Technologies 
+#Technologies <br>
 Codes are written in python with v.3.7.
 
 
